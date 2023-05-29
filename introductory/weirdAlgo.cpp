@@ -1,3 +1,13 @@
+#include <iostream>
+#include <bits/stdc++.h>
+#include <cmath>
+#define ll long long
+#define pb push_back
+#define F first
+#define S second
+#define vt vector
+using namespace std;
+
 int main()
 {
 	ios::sync_with_stdio(0);
